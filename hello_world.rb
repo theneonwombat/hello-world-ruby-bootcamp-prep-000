@@ -1,1 +1,1 @@
-puts "Hello World!"
+$stdout.puts "Hello World!"
